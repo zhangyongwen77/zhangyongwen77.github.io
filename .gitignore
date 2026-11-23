@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local source records and retired site photographs
+/content/people-sources.json
+/content/publication-notes.local.json
+/assets/kunming-lake-dian.jpg
+/assets/people/yongwen-zhang-outdoors.jpg

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Journal publications by Yongwen Zhang and co-authors, organized by year.">
+{{ROBOTS}}
+  <title>Publications — {{NAME}}</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to publications</a>
+{{PREVIEW}}
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="brand-symbol" aria-hidden="true">{{SHORT_NAME}}</span><span>{{NAME}}<small>{{AFFILIATION}}</small></span></a>
+    <nav aria-label="Main navigation"><a href="index.html#research">Research</a><a href="index.html#people">People</a><a href="index.html#news">News</a><a href="publications.html" aria-current="page">Publications</a><a class="nav-contact" href="index.html#contact">Join us</a></nav>
+  </header>
+  <main class="wrap bibliography" id="main">
+    <h1>Publications</h1>
+    <p class="correspondence-key">* Corresponding author</p>
+    <nav class="year-nav" aria-label="Browse by publication year">{{YEAR_LINKS}}</nav>
+    {{YEAR_SECTIONS}}
+  </main>
+  <footer class="wrap"><a href="index.html">← Group homepage</a><a href="#main">Back to top ↑</a></footer>
+</body>
+</html>

@@ -1,0 +1,178 @@
+{
+  "preview": false,
+  "name": "Yongwen Zhang (张永文) Research Group",
+  "short_name": "YZ",
+  "scholar_url": "https://scholar.google.com/citations?user=1YPtGSUAAAAJ&hl=zh-CN",
+  "affiliation": "Faculty of Science, Kunming University of Science and Technology",
+  "headline": "Complex Systems Science",
+  "introduction": "How does collective behavior emerge in the Earth system, and what can it teach us about complex systems more broadly? Statistical physics provides our main theoretical framework and methods for tracing the patterns we observe back to the interactions that produce them. In turn, we take questions raised by Earth observations as a starting point for developing new theories in complex systems science and statistical physics.",
+  "research": [
+    {
+      "title": "Statistical physics of the Earth system",
+      "description": "How do interactions among the ocean, atmosphere and land give rise to patterns that span entire regions or persist across seasons? We combine Earth observations with network analysis and physical models to identify which interactions and feedbacks shape the behavior we see at larger scales.",
+      "figure": {
+        "src": "assets/research-earth-el-nino.jpg",
+        "width": 1120,
+        "height": 746,
+        "alt": "A satellite map shows a red band of above-average sea level stretching across the equatorial Pacific.",
+        "caption": "Sea surface height during El Niño, 1–10 June 2023. Red marks higher-than-average sea levels and blue marks lower levels.",
+        "credit": "Lauren Dauphin / NASA Earth Observatory. Contains modified Copernicus Sentinel data (2023).",
+        "source": "https://science.nasa.gov/earth/earth-observatory/el-nino-returns-151481/"
+      }
+    },
+    {
+      "title": "Collective behavior and nonequilibrium dynamics",
+      "description": "The Earth system poses fundamental questions about systems far from equilibrium. For instance, why can the same disturbance produce different responses depending on the state of the system? We use simplified models and numerical experiments to work out which mechanisms matter and whether the resulting principles hold in other complex systems.",
+      "figure": {
+        "src": "assets/research-collective-ising.png",
+        "width": 1036,
+        "height": 512,
+        "alt": "Two snapshots of the same lattice show small teal and ochre patches merging into larger domains.",
+        "caption": "After a quench, patches of aligned spins grow in a two-dimensional Ising model."
+      }
+    }
+  ],
+  "people": [
+    {
+      "name": "Yongwen Zhang",
+      "name_native": "张永文",
+      "role": "Team Leader",
+      "bio": "Yongwen Zhang is an associate professor at Kunming University of Science and Technology. He studied theoretical physics at the Institute of Theoretical Physics, Chinese Academy of Sciences, and carried out postdoctoral research at Bar-Ilan University. He uses statistical physics to study emergence in the Earth system. He is particularly interested in what Earth observations can teach us about the general principles governing complex systems away from equilibrium.",
+      "image": "assets/people/yongwen-zhang-talk.jpg",
+      "image_crop": {
+        "x": 394,
+        "y": 154,
+        "width": 1000,
+        "height": 1000,
+        "source_width": 1760,
+        "source_height": 1174
+      },
+      "profile_url": "https://lxy.kmust.edu.cn/info/1137/1726.htm"
+    },
+    {
+      "name": "Panjie Qiao",
+      "role": "Associate Professor",
+      "bio": "She uses network analysis and climate models to study extreme events, including heavy rainfall.",
+      "image": "assets/people/panjie-qiao.jpg",
+      "image_crop": {"x": 0, "y": 12, "width": 432, "height": 540, "source_width": 432, "source_height": 606}
+    },
+    {
+      "name": "Xu Li",
+      "role": "Associate Professor",
+      "bio": "He uses statistical physics to study phase transitions and the patterns that form in fluid flows.",
+      "image": "assets/people/xu-li.jpg",
+      "image_crop": {"x": 20, "y": 47, "width": 236, "height": 295, "source_width": 295, "source_height": 413}
+    },
+    {
+      "name": "Tingting Xue",
+      "role": "Lecturer",
+      "bio": "She studies how interactions among individuals give rise to collective motion in animal groups.",
+      "image": "assets/people/tingting-xue.jpg",
+      "image_crop": {"x": 38, "y": 58, "width": 216, "height": 270, "source_width": 295, "source_height": 413}
+    }
+  ],
+  "students": [
+    {
+      "name": "Tianlu Xiong",
+      "role": "PhD Student",
+      "start_year": 2023,
+      "bio": "Machine learning for earthquake prediction",
+      "image": "assets/people/students/tianlu-xiong.jpg",
+      "image_crop": {"x": 44, "y": 0, "width": 160, "height": 200, "source_width": 248, "source_height": 248}
+    },
+    {
+      "name": "Dan Zhao",
+      "role": "PhD Student",
+      "start_year": 2024,
+      "bio": "Nonequilibrium dynamics and criticality in the Earth system",
+      "image": "assets/people/students/dan-zhao.png"
+    },
+    {
+      "name": "Zaibo Zhao",
+      "role": "PhD Student",
+      "start_year": 2025,
+      "bio": "Complex systems theory and its applications to the Earth system",
+      "image": "assets/people/students/zaibo-zhao.jpg",
+      "image_crop": {"x": 0, "y": 0, "width": 316, "height": 395, "source_width": 316, "source_height": 421}
+    },
+    {
+      "name": "Shuo Yang",
+      "role": "PhD Student",
+      "start_year": 2026,
+      "bio": "Early warning of critical transitions in permafrost on the Tibetan Plateau",
+      "image": "assets/people/students/shuo-yang.jpg",
+      "image_crop": {"x": 0, "y": 22, "width": 300, "height": 375, "source_width": 300, "source_height": 421}
+    },
+    {
+      "name": "Haining Li",
+      "role": "Master’s Student",
+      "start_year": 2024,
+      "bio": "Synchronization of extreme particulate air pollution events across mainland Southeast Asia and southwestern China",
+      "image": "assets/people/students/haining-li.png",
+      "image_crop": {"x": 0, "y": 21, "width": 280, "height": 350, "source_width": 280, "source_height": 394}
+    },
+    {
+      "name": "Yunrui Li",
+      "role": "Master’s Student",
+      "start_year": 2024,
+      "bio": "Seismology and collective motion",
+      "image": "assets/people/students/yunrui-li.jpg",
+      "image_crop": {"x": 12, "y": 16, "width": 280, "height": 350, "source_width": 304, "source_height": 425}
+    },
+    {
+      "name": "Qinqi Song",
+      "role": "Master’s Student",
+      "start_year": 2025,
+      "bio": "Kármán vortex streets over the Tibetan Plateau",
+      "image": "assets/people/students/qinqi-song.jpg",
+      "image_crop": {"x": 7, "y": 8, "width": 268, "height": 335, "source_width": 283, "source_height": 379}
+    },
+    {
+      "name": "Nan Li",
+      "role": "Master’s Student",
+      "start_year": 2026,
+      "bio": "Genetic differentiation and collective transitions in adaptive networks of host recognition and gene flow",
+      "image": "assets/people/students/nan-li.jpg",
+      "image_crop": {"x": 1, "y": 0, "width": 320, "height": 400, "source_width": 323, "source_height": 453}
+    },
+    {
+      "name": "Bo Lu",
+      "role": "Master’s Student",
+      "start_year": 2026,
+      "bio": "Studying earthquake catalogs using complex systems methods",
+      "image": "assets/people/students/bo-lu.jpg",
+      "image_crop": {"x": 1, "y": 4, "width": 292, "height": 365, "source_width": 295, "source_height": 413}
+    }
+  ],
+  "alumni": [
+    {"name": "Yuan Chen", "cohorts": "PhD (2022 cohort) · Master’s (2020 cohort)"},
+    {"name": "Ping Yu", "cohorts": "Master’s (2020 cohort)"},
+    {"name": "Yifan Cheng", "cohorts": "Master’s (2021 cohort)"},
+    {"name": "Haoyuan Zhang", "cohorts": "Master’s (2021 cohort)"},
+    {"name": "Siqiu Liu", "cohorts": "Master’s (2022 cohort)"},
+    {"name": "Yixin Li", "cohorts": "Master’s (2023 cohort)"}
+  ],
+  "news": [
+    {
+      "date": "2026-09-01",
+      "title": "What can Earth system science and complex systems science learn from each other?",
+      "text": "In a perspective in Fundamental Research, Yongwen Zhang, Deliang Chen and Jingfang Fan trace a two-way exchange through the idea of emergence. Concepts such as phase transitions help explain how abrupt changes can arise on Earth. In turn, observations of how Earth responds to disturbances suggest new directions for the theory of systems far from equilibrium.",
+      "url": "https://doi.org/10.1016/j.fmre.2026.08.011",
+      "figure": {
+        "preview": "assets/news-earth-emergence-preview.webp",
+        "full": "assets/news-earth-emergence-figure-1.webp",
+        "width": 960,
+        "height": 725,
+        "alt": "Two arrows connect Earth system science and complex systems science. Earth observations constrain theory, and complex systems theory helps explain emergent behavior on Earth.",
+        "caption": "Figure 1 from Zhang, Chen & Fan (2026).",
+        "source": "https://sss.bnu.edu.cn/sxwzx/cgsd/baedcfd6e5794ac796046c6e4a54a356.htm"
+      }
+    }
+  ],
+  "opportunities": "We welcome applications from prospective master’s students, PhD students and postdoctoral researchers. For applications or research collaborations, email Yongwen Zhang with a brief introduction and the questions you would like to explore.",
+  "email": "zhangyw@kust.edu.cn",
+  "address": [
+    "Department of Systems Science, Faculty of Science, Kunming University of Science and Technology, Kunming, Yunnan, China",
+    "Yunnan Key Laboratory of Complex Systems and Brain-Inspired Intelligence, Kunming 650500, Yunnan, China"
+  ]
+}
